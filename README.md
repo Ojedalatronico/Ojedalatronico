@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">An enthusiast who learns to program more every day</h3>
+<h3 align="center">An enthusiast who know one or two things</h3>
 
 - 🔭 I’m currently working on **Toyota ES**
+
+- Do you know that friend who want to automatize everything? I'm your friend.
 
 - 📫 How to reach me **Ojedalatronico@gmail.com**
 
